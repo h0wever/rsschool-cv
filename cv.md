@@ -12,3 +12,19 @@
 * [linkedin](https://www.linkedin.com/in/siarhei-voranau-199b13175/)
 * [GitHub](https://h0wever.github.io)
 -------------------     ----------------------------
+
+## About Me:
+
+There are at a high level the ability to work in a team and self-organized, good interpersonal skills, ready to comprehend and comprehend new skills and overcome difficulties (I learned to whistle without hands at 35).
+I am sure that my additional abilities not indicated above will help me become an experienced Frontend developer.
+
+-----
+
+## Skills and Proficiency:
+
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
+
+----
