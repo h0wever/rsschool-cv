@@ -28,3 +28,26 @@ I am sure that my additional abilities not indicated above will help me become a
 * VS Code
 
 ----
+
+## Code examples:
+
+```
+if (х < у) { // начало блока i
+х = у;
+У = 0; } // конец блока
+```
+
+## Education:
+
+* «Nowolukoml` second school №83». qualification: bricklayer, ironworker, welder.
+* «Vitebsk State college». qualification: construction technician
+* «Polotsk State University». qualification: civil engineer.
+ 
+
+ * Courses:
+    * [HTML Academy](https://htmlacademy.ru/)
+    * [WEBReference](https://webref.ru/)
+
+* Languages:
+    * English - A2-B1
+   I used it intermittently when I worked in the EU as a construction worker and truck driver.
