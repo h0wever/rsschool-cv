@@ -28,3 +28,17 @@ I am sure that my additional abilities not indicated above will help me become a
 ```
 const stringToNumber = (str) => str + 1
 ```
+## Education:
+
+* «Nowolukoml` second school №83». qualification: bricklayer, ironworker, welder 1999-2002.
+* «Vitebsk State college». qualification: construction technician 2002-2005.
+* «Polotsk State University». qualification: civil engineer 2005-2011.
+
+### Courses:
+* [HTML Academy](https://htmlacademy.ru/)
+* [WEBReference](https://webref.ru/)
+* [It-incubator](https://it-incubator.io/)
+
+##### Languages:
+    * English - A2-B1
+I used it intermittently when I worked in the EU as a construction worker and truck driver.
