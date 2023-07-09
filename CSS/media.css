@@ -1,0 +1,16 @@
+@media (max-width: 620px) {
+
+    .header__content{
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .nav__list{
+        display: block;
+    }
+
+    .footer__container{
+        display: block;
+    }
+    
+}
